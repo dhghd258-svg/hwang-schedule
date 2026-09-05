@@ -1,0 +1,332 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//Hwang Heechan Combined//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ 황희찬 경기 일정
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:hwang-schalke-1@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20260906T013000
+DTEND;TZID=Asia/Seoul:20260906T033000
+SUMMARY:🔵 황희찬 | 샬케 04 vs 바이에른 뮌헨
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-2@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20260912T033000
+DTEND;TZID=Asia/Seoul:20260912T053000
+SUMMARY:🔵 황희찬 | 우니온 베를린 vs 샬케 04
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-3@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20260921T003000
+DTEND;TZID=Asia/Seoul:20260921T023000
+SUMMARY:🔵 황희찬 | 샬케 04 vs 엘버스베르크
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-4@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20261010T190000
+DTEND;TZID=Asia/Seoul:20261010T210000
+SUMMARY:🔵 황희찬 | 프라이부르크 vs 샬케 04
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-5@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20261017T190000
+DTEND;TZID=Asia/Seoul:20261017T210000
+SUMMARY:🔵 황희찬 | 샬케 04 vs 마인츠 05
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-6@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20261024T190000
+DTEND;TZID=Asia/Seoul:20261024T210000
+SUMMARY:🔵 황희찬 | 쾰른 vs 샬케 04
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-7@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20261031T190000
+DTEND;TZID=Asia/Seoul:20261031T210000
+SUMMARY:🔵 황희찬 | 샬케 04 vs RB 라이프치히
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-8@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20261107T190000
+DTEND;TZID=Asia/Seoul:20261107T210000
+SUMMARY:🔵 황희찬 | 호펜하임 vs 샬케 04
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-9@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20261121T190000
+DTEND;TZID=Asia/Seoul:20261121T210000
+SUMMARY:🔵 황희찬 | 샬케 04 vs 슈투트가르트
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-10@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20261128T190000
+DTEND;TZID=Asia/Seoul:20261128T210000
+SUMMARY:🔵 황희찬 | 파더보른 vs 샬케 04
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-11@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20261205T190000
+DTEND;TZID=Asia/Seoul:20261205T210000
+SUMMARY:🔵 황희찬 | 샬케 04 vs 도르트문트
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-12@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20261212T190000
+DTEND;TZID=Asia/Seoul:20261212T210000
+SUMMARY:🔵 황희찬 | 함부르크 vs 샬케 04
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-13@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20261219T190000
+DTEND;TZID=Asia/Seoul:20261219T210000
+SUMMARY:🔵 황희찬 | 샬케 04 vs 묀헨글라트바흐
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-14@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20270109T190000
+DTEND;TZID=Asia/Seoul:20270109T210000
+SUMMARY:🔵 황희찬 | 프랑크푸르트 vs 샬케 04
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-15@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20270113T190000
+DTEND;TZID=Asia/Seoul:20270113T210000
+SUMMARY:🔵 황희찬 | 샬케 04 vs 베르더 브레멘
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-16@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20270116T190000
+DTEND;TZID=Asia/Seoul:20270116T210000
+SUMMARY:🔵 황희찬 | 레버쿠젠 vs 샬케 04
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-17@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20270123T190000
+DTEND;TZID=Asia/Seoul:20270123T210000
+SUMMARY:🔵 황희찬 | 샬케 04 vs 아우크스부르크
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-18@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20270130T190000
+DTEND;TZID=Asia/Seoul:20270130T210000
+SUMMARY:🔵 황희찬 | 바이에른 뮌헨 vs 샬케 04
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-19@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20270206T190000
+DTEND;TZID=Asia/Seoul:20270206T210000
+SUMMARY:🔵 황희찬 | 샬케 04 vs 우니온 베를린
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-20@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20270213T190000
+DTEND;TZID=Asia/Seoul:20270213T210000
+SUMMARY:🔵 황희찬 | 엘버스베르크 vs 샬케 04
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-21@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20270220T190000
+DTEND;TZID=Asia/Seoul:20270220T210000
+SUMMARY:🔵 황희찬 | 샬케 04 vs 프라이부르크
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-22@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20270227T190000
+DTEND;TZID=Asia/Seoul:20270227T210000
+SUMMARY:🔵 황희찬 | 마인츠 05 vs 샬케 04
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-23@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20270303T190000
+DTEND;TZID=Asia/Seoul:20270303T210000
+SUMMARY:🔵 황희찬 | 샬케 04 vs 쾰른
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-24@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20270306T190000
+DTEND;TZID=Asia/Seoul:20270306T210000
+SUMMARY:🔵 황희찬 | RB 라이프치히 vs 샬케 04
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-25@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20270313T190000
+DTEND;TZID=Asia/Seoul:20270313T210000
+SUMMARY:🔵 황희찬 | 샬케 04 vs 호펜하임
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-26@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20270320T190000
+DTEND;TZID=Asia/Seoul:20270320T210000
+SUMMARY:🔵 황희찬 | 슈투트가르트 vs 샬케 04
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-27@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20270403T190000
+DTEND;TZID=Asia/Seoul:20270403T210000
+SUMMARY:🔵 황희찬 | 샬케 04 vs 파더보른
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-28@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20270410T190000
+DTEND;TZID=Asia/Seoul:20270410T210000
+SUMMARY:🔵 황희찬 | 도르트문트 vs 샬케 04
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-29@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20270417T190000
+DTEND;TZID=Asia/Seoul:20270417T210000
+SUMMARY:🔵 황희찬 | 샬케 04 vs 함부르크
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-30@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20270424T190000
+DTEND;TZID=Asia/Seoul:20270424T210000
+SUMMARY:🔵 황희찬 | 묀헨글라트바흐 vs 샬케 04
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-31@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20270508T190000
+DTEND;TZID=Asia/Seoul:20270508T210000
+SUMMARY:🔵 황희찬 | 샬케 04 vs 프랑크푸르트
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-32@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20270515T190000
+DTEND;TZID=Asia/Seoul:20270515T210000
+SUMMARY:🔵 황희찬 | 베르더 브레멘 vs 샬케 04
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-schalke-33@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20270522T223000
+DTEND;TZID=Asia/Seoul:20270523T003000
+SUMMARY:🔵 황희찬 | 샬케 04 vs 레버쿠젠
+DESCRIPTION:FC 샬케 04 경기 일정입니다. 황희찬의 실제 출전 여부는 경기 당일 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-korea-1@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20260924T200000
+DTEND;TZID=Asia/Seoul:20260924T220000
+SUMMARY:🇰🇷 황희찬 | 대한민국 vs 에콰도르
+DESCRIPTION:대한민국 남자 축구 국가대표팀 경기 일정입니다. 황희찬의 실제 소집 및 출전 여부는 대표팀 명단에 따라 달라질 수 있습니다.
+LOCATION:수원월드컵경기장
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-korea-2@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20260928T200000
+DTEND;TZID=Asia/Seoul:20260928T220000
+SUMMARY:🇰🇷 황희찬 | 대한민국 vs 우루과이
+DESCRIPTION:대한민국 남자 축구 국가대표팀 경기 일정입니다. 황희찬의 실제 소집 및 출전 여부는 대표팀 명단에 따라 달라질 수 있습니다.
+LOCATION:서울월드컵경기장
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-korea-3@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20261002T200000
+DTEND;TZID=Asia/Seoul:20261002T220000
+SUMMARY:🇰🇷 황희찬 | 대한민국 vs 베네수엘라
+DESCRIPTION:대한민국 남자 축구 국가대표팀 경기 일정입니다. 황희찬의 실제 소집 및 출전 여부는 대표팀 명단에 따라 달라질 수 있습니다.
+LOCATION:울산
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-korea-4@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20261006T200000
+DTEND;TZID=Asia/Seoul:20261006T220000
+SUMMARY:🇰🇷 황희찬 | 대한민국 vs 우즈베키스탄
+DESCRIPTION:대한민국 남자 축구 국가대표팀 경기 일정입니다. 황희찬의 실제 소집 및 출전 여부는 대표팀 명단에 따라 달라질 수 있습니다.
+LOCATION:용인
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-korea-5@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20270110T190000
+DTEND;TZID=Asia/Seoul:20270110T210000
+SUMMARY:🇰🇷 황희찬 | 대한민국 vs 예멘
+DESCRIPTION:대한민국 남자 축구 국가대표팀 경기 일정입니다. 황희찬의 실제 소집 및 출전 여부는 대표팀 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-korea-6@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20270115T190000
+DTEND;TZID=Asia/Seoul:20270115T210000
+SUMMARY:🇰🇷 황희찬 | 베트남 vs 대한민국
+DESCRIPTION:대한민국 남자 축구 국가대표팀 경기 일정입니다. 황희찬의 실제 소집 및 출전 여부는 대표팀 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+BEGIN:VEVENT
+UID:hwang-korea-7@openai
+DTSTAMP:20260905T064015Z
+DTSTART;TZID=Asia/Seoul:20270120T190000
+DTEND;TZID=Asia/Seoul:20270120T210000
+SUMMARY:🇰🇷 황희찬 | 대한민국 vs 아랍에미리트
+DESCRIPTION:대한민국 남자 축구 국가대표팀 경기 일정입니다. 황희찬의 실제 소집 및 출전 여부는 대표팀 명단에 따라 달라질 수 있습니다.
+END:VEVENT
+END:VCALENDAR
